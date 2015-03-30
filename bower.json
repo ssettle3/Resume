@@ -8,6 +8,7 @@
     "bourbon": "~4.0.2",
     "neat": "~1.6.0",
     "normalize-css": "~3.0.1",
-    "materialize": "~0.95.3"
+    "materialize": "~0.95.3",
+    "font-awesome": "~4.3.0"
   }
 }
