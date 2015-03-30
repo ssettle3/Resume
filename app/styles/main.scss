@@ -1,0 +1,23 @@
+ // Bourbon & Neat
+@import '../../bower_components/bourbon/dist/bourbon';
+@import '../../bower_components/neat/app/assets/stylesheets/neat';
+
+// Custom Styles
+body {
+  background: #fafafa;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #333;
+  font-size: 10px;
+}
+
+// Main Container
+.container{
+  width: 70rem;
+  background: white;
+  border-radius: 0.5rem;
+
+  // Title Block
+  .title{
+    text-align: center;
+  }
+}
