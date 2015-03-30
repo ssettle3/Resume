@@ -38,6 +38,11 @@ body {
     margin-right: 1rem;
     margin-top: 1rem;
   }
+  a{
+    &:hover{
+      color:navy;
+    }
+  }
 
   // Title Block
   .title{
