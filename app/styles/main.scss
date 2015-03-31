@@ -23,6 +23,7 @@ body {
   ul li{
     font-size: 1.2rem;
     list-style: circle outside none;
+    margin-left: 1.2rem;
   }
   h6{
     font-size: 1.3rem;
@@ -53,16 +54,16 @@ body {
       font-style: italic;
       font-size: 1.2rem;
     }
+    h6:nth-child(odd){
+      margin-bottom: 2rem;
+    }
     div{
-      float:right;
       margin-top:-3rem;
+      text-align:right;
     }
   }
   .education{
-    div div{
-      float:right;
-      margin-top: -3rem;
-    }
+    margin-bottom: 3rem;
     .TIY{
       margin-bottom: 2rem;
     }
