@@ -31,6 +31,7 @@ body {
   span{
     font-size: 1rem;
     font-style: italic;
+    text-align:right;
   }
   i{
     font-size: 1.5rem;
@@ -51,6 +52,24 @@ body {
     #pm{
       font-style: italic;
       font-size: 1.2rem;
+    }
+    div{
+      float:right;
+      margin-top:-3rem;
+    }
+  }
+  .education{
+    div div{
+      float:right;
+      margin-top: -1.5rem;
+    }
+    .TIY{
+      margin-bottom: 2rem;
+    }
+    .degree{
+      font-size: 1.2rem;
+      font-style: italic;
+      font-weight: normal;
     }
   }
 
